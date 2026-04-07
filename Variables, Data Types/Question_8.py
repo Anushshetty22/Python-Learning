@@ -29,7 +29,7 @@ number_of_people → int
 tip_percent → float
 
 💡 Slight Challenge
-👉 Format output to 2 decimal places
+👉 Format output to 2 decimal places  
 
 🎯 What this tests
 Multiple inputs
