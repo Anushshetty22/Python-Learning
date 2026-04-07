@@ -54,4 +54,4 @@ final_bill = total_bill + tip
 
 amount_per_person = final_bill / number_of_people
 
-print(f"Each person should pay: {amount_per_person:.2f}")
+print(f"Each person should pay: {amount_per_person:.2f}")  
